@@ -17,6 +17,7 @@ I'm Remigiusz, a programming enthusiast, gym aficionado, and self-improvement de
 ## 📫 How to reach me
 - Send me an email at remigiusz.krupa@microsoft.wsei.edu.pl
 - Follow me on [LinkedIn](https://www.linkedin.com/in/remigiusz-krupa1/)
+- Check my website: remigiuszkrupa.pl
 
 ## 😄 Pronouns: He/Him
 
