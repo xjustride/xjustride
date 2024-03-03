@@ -28,4 +28,3 @@ Did you know that the longest programming marathon lasted 48 hours straight? Ins
 
 Thanks for stopping by! Be sure to follow my projects and don't hesitate to reach out for more information.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjustride&layout=compact&theme=dark)
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xjustride&theme=onedark)
