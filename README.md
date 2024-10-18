@@ -6,6 +6,8 @@ I'm Remigiusz, a student of Applied Computer Science with a passion for programm
 - Advanced techniques in C# and .NET to build more efficient and scalable applications.
 - Modern JavaScript, including frameworks like React, to create interactive user interfaces.
 - SQL query optimization and database management to enhance application performance.
+- Kali Linux and Ubuntu systems for security and administration tasks.
+
 
 ## 👯 I’m currently looking for internships or practice opportunities
 
